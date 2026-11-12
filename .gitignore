@@ -1,0 +1,4 @@
+tests/output/
+screenshots/*-initial.png
+.DS_Store
+node_modules/
